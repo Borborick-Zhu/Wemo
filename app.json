@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wemo",
+    "slug": "wemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wemo"
+}
